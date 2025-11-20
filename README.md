@@ -11,40 +11,57 @@
 ## 📸 Tampilan Program
 
 **1. Memulai PHP**
+<img width="703" height="329" alt="Screenshot 2025-11-20 115504" src="https://github.com/user-attachments/assets/53991b7a-0725-4654-a399-b7939b60207a" />
 
-![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_48_26-Greenshot.png)
 
 **2. PHP DASAR**
 
-![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_49_14-Greenshot.png)
+<img width="1358" height="1010" alt="Screenshot 2025-11-20 105709" src="https://github.com/user-attachments/assets/2dbee0c5-a400-451e-8528-db34ca02278f" />
+
 
 **3. VARIABLE PHP**
+<img width="725" height="407" alt="image" src="https://github.com/user-attachments/assets/1ca83201-bcc5-4186-84c2-7889a7da74a3" />
 
-![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_50_46-Greenshot.png)
 
 **4. PREDEFINE VARIABLE**
 
-![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_51_40-Greenshot.png)
+<img width="1349" height="667" alt="Screenshot 2025-11-20 110537" src="https://github.com/user-attachments/assets/0ca9d7bf-960e-47e9-8589-d01f9e8cd4a4" />
 
 **5. FROM INPUT**
 
-![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_52_15-Greenshot.png)
+<img width="1122" height="790" alt="Screenshot 2025-11-20 110050" src="https://github.com/user-attachments/assets/79b317cb-aa21-45b2-addb-348a44e8ca21" />
 
 **6. OPERATOR, KONDISI IF, KONDISI SWITCH, PERULANGAN FOR**
+**operator**
+<img width="670" height="386" alt="image" src="https://github.com/user-attachments/assets/796dd617-1e4f-41a9-b51c-4376b0062dc4" />
+**kondisi if**
+<img width="409" height="200" alt="Screenshot 2025-11-20 114330" src="https://github.com/user-attachments/assets/caa4f480-c61d-4717-9c84-e9cdf21b3d0c" />
+**kondisi switch**
+<img width="557" height="158" alt="Screenshot 2025-11-20 114259" src="https://github.com/user-attachments/assets/b52bc0d2-9d4f-4f07-b6e1-f317d55623db" />
+**perulangan for**
+<img width="379" height="795" alt="Screenshot 2025-11-20 114044" src="https://github.com/user-attachments/assets/2ca646a1-df8f-431f-8ce0-51da5cf2d2f9" />
 
-![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_57_45-Greenshot.png)
+
+
 
 **7. PERULANGAN FOR, PERULANGAN WHILE**
+<img width="379" height="795" alt="Screenshot 2025-11-20 114044" src="https://github.com/user-attachments/assets/13d9136f-aa7d-4508-bc38-bf049b0f8abc" />
 
-![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_58_25-Greenshot.png)
+<img width="279" height="382" alt="Screenshot 2025-11-20 114210" src="https://github.com/user-attachments/assets/51b34ecf-df22-4a35-8ae8-83dcb3b55f4a" />
+
+
 
 **8. PERULANGAN WHILE, PERULANGAN DO WHILE**
 
-![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_58_57-Greenshot.png)
+<img width="279" height="382" alt="Screenshot 2025-11-20 114210" src="https://github.com/user-attachments/assets/f0299779-7b0e-4392-bd61-4ac1f0f41bf3" />
+
+<img width="417" height="424" alt="Screenshot 2025-11-20 114440" src="https://github.com/user-attachments/assets/34de1e42-e32d-4d66-a8ae-d4fe1ddcf5ac" />
+
 
 **9. FORM INPUT DATA DIRI**
 
-![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_59_57-Greenshot.png)
+<img width="894" height="995" alt="Screenshot 2025-11-20 111835" src="https://github.com/user-attachments/assets/0d2a3eda-6ba4-4c82-8c75-0fffd7dcfc06" />
+
 
 ---
 
